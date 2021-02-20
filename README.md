@@ -4,7 +4,7 @@ Use the issues menu to report a problem observe on the site, please follow the b
 
 ## Issues model
 **Describe the bug**
-A clear and concise description of what the bug is. Please upload the Laravel logs as well from `storage/logs/laravel.log` (or the file with the correct date)
+A clear and concise description of what the bug is. Please add the link of the shared error if error is showed.
 
 **Version**
 Please enter the version
